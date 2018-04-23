@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FindMyConcert</string>
+    <string name="frontScreen">Find Your Next Adventure</string>
+    <string name="id">Username</string>
+    <string name="password">Password</string>
+    <string name="forgot">Forgot Account?</string>
+    <string name="create">Create Account</string>
+    <string name="login">Login</string>
+    <string name="friendFeed">Friends Activity</string>
+    <string name="yourFeed">Your Activity</string>
+    <string name="buy">Buy Tickets</string>
+    <string name="sell">Sell Tickets</string>
+    <string name="explore">Explore</string>
+    <string name="findPeople">Find Your Crew</string>
+</resources>
